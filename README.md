@@ -1,6 +1,5 @@
 # HTML-test-v2
 
-2 рівень складності 
 Посилання на матеріали:
 https://www.dropbox.com/s/gfpx7t73tlsaoou/HTML1-test-v2.jpg?dl=0
 https://www.dropbox.com/s/wqb4y4g2wzr8ihr/HTML1-test-v2.psd?dl=0
